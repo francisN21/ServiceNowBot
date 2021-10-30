@@ -12,7 +12,7 @@
 
 ### Descritption
 
-Allows to Manage escalation group queue that assigns tickets to the team and sends Google Chat Notification to the team when ticket has been assign to a tech.
+Allows to Manage escalation group queue that assigns tickets to the team and sends Google Chat Notification to the team when ticket has been assigned to a tech.
 Using Google App script allows the bot to send a message notification tagging the person assigned for visibility in the Team's Google Chat Group.
 
 ### Tech Used
